@@ -1,0 +1,85 @@
+1645207990273:;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/f9/rnl5jn_j6lbgswbt6vs5bs1m0000gp/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "/Users/andrey/Library/Application Support/JetBrains/Toolbox/apps/IDEA-C/ch-0/213.6461.79/IntelliJ IDEA CE.app.plugins/Scala/repo/org/jetbrains/scala/sbt-structure-extractor_2.12_1.0/2021.3.0/sbt-structure-extractor-2021.3.0.jar" org.jetbrains.sbt.CreateTasks;preferScala2;*/*:dumpStructure
+1645259461913:run
+1645259528754:reload
+1645259532675:run
+1645259625212:reload
+1645259629933:run
+1645259681445:reload
+1645259685131:run
+1645259747527:reload
+1645259784074:run
+1645259871053:reload
+1645259874601:run
+1645259924186:reload
+1645259928461:run
+1645260188895:reload
+1645260192618:run
+1645260215054:exit
+1645260236669:run
+1645260278863:exit
+1645260911066:reload
+1645260916456:run
+1645261015641:reload
+1645261019201:run
+1645261057614:reload
+1645261060664:run
+1645261073580:reload
+1645261076676:run
+1645261095009:reload
+1645261154191:run
+1645261168811:reload
+1645261223253:run
+1645261244649:reload
+1645261247508:run
+1645261334954:reload
+1645261337011:run
+1645261373607:dependencyTree
+1645261480336:reload
+1645261485260:run
+1645261537046:reload
+1645261542305:run
+1645261545006:exit
+1645261574256:run
+1645261602138:reload
+1645261609506:run
+1645262676560:reload
+1645262680935:run
+1645263309673:biuild
+1645263317854:build
+1645263600019:;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/f9/rnl5jn_j6lbgswbt6vs5bs1m0000gp/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "/Users/andrey/Library/Application Support/JetBrains/Toolbox/apps/IDEA-C/ch-0/213.6461.79/IntelliJ IDEA CE.app.plugins/Scala/repo/org/jetbrains/scala/sbt-structure-extractor_2.12_1.0/2021.3.0/sbt-structure-extractor-2021.3.0.jar" org.jetbrains.sbt.CreateTasks;preferScala2;*/*:dumpStructure
+1645263647306:кгт
+1645263649988:rin
+1645263652240:run
+1645263876185:reload
+1645263881075:run
+1645264054919:reload
+1645264057135:run
+1645264533827:start
+1645265767818:exit
+1645266404716:;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/f9/rnl5jn_j6lbgswbt6vs5bs1m0000gp/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "/Users/andrey/Library/Application Support/JetBrains/Toolbox/apps/IDEA-C/ch-0/213.6461.79/IntelliJ IDEA CE.app.plugins/Scala/repo/org/jetbrains/scala/sbt-structure-extractor_2.12_1.0/2021.3.0/sbt-structure-extractor-2021.3.0.jar" org.jetbrains.sbt.CreateTasks;preferScala2;*/*:dumpStructure
+1645425771806:dependencyTree
+1645425800121:reload
+1645425806642:dependencyTree
+1645426040526:sbtman
+1645426043440:man
+1645426244179:dependencyTree > dependency-resolution.txt
+1645426289991:dependencyTree toFile dependency-resolution.txt
+1645426305035:dependencyTree::toFile dependency-resolution.txt
+1645426362511:reload
+1645426375293:dependencyTree
+1645426417642:reload
+1645426427963:dependencyTree::toFile dependency-resolution.txt
+1645426452746:dependencyTree
+1645426454946:dependencyTree::toFile dependency-resolution.txt
+1645426478049:dependencyTree::toFile dependency-resolution.txt -f
+1645426498431:reload
+1645426503420:dependencyTree::toFile dependency-resolution.txt -f
+1645426533379:reload
+1645426539269:dependencyTree::toFile dependency-resolution.txt -f
+1645426548359:gst
+1645426553176:exit
+1645735206026:exit
+1646027768331:;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/f9/rnl5jn_j6lbgswbt6vs5bs1m0000gp/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "/Users/andrey/Library/Application Support/JetBrains/Toolbox/apps/IDEA-C/ch-0/213.6461.79/IntelliJ IDEA CE.app.plugins/Scala/repo/org/jetbrains/scala/sbt-structure-extractor_2.12_1.0/2021.3.0/sbt-structure-extractor-2021.3.0.jar" org.jetbrains.sbt.CreateTasks;preferScala2;*/*:dumpStructure
+1646027825972:dependencyTree
+1646051538374:учше
+1646051540937:exit

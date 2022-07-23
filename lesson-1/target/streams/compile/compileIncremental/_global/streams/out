@@ -1,0 +1,32 @@
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] IncrementalCompile -----------[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
+[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 2 products, 1 sources, 2 libraries[0m
+[0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/src/main/scala/test.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(${BASE}/src/main/scala/test.scala), unmodified = ...),Set(${BASE}/target/scala-2.13/classes/test$.class),Set(),API Changes: Set())[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(${BASE}/src/main/scala/test.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set(${BASE}/target/scala-2.13/classes/test$.class)[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(test)[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set(${BASE}/src/main/scala/test.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mall 1 sources are invalidated[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: test[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all sources: number of invalidated sources > 50.0% of all sources[0m
+[0m[[0m[0mdebug[0m] [0m[0mcompilation cycle 1[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/andrey/Tinkoff_Scala/target/scala-2.13/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.6.0:compile for Scala 2.13.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 124e50dd for Scala compiler version 2.13.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/andrey/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.8/scala-library-2.13.8.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/andrey/Tinkoff_Scala/target/scala-2.13/classes:/Users/andrey/Library/Caches/Coursier/v1/https/gitlab.com/api/v4/projects/33751126/packages/maven/ru/tinkoff/scala-course-john_2.13/0.2/scala-course-john_2.13-0.2.jar:/Users/andrey/Library/Caches/Coursier/v1/https/gitlab.com/api/v4/projects/33751126/packages/maven/ru/tinkoff/scala-course-tom_2.13/0.2/scala-course-tom_2.13-0.2.jar:/Users/andrey/Library/Caches/Coursier/v1/https/gitlab.com/api/v4/projects/33751126/packages/maven/ru/tinkoff/scala-course-clerk_2.13/0.2/scala-course-clerk_2.13-0.2.jar:/Users/andrey/Library/Caches/Coursier/v1/https/gitlab.com/api/v4/projects/33751126/packages/maven/ru/tinkoff/scala-course-martin_2.13/0.1/scala-course-martin_2.13-0.1.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 0.603262404 s[0m
+[0m[[0m[0minfo[0m] [0m[0mdone compiling[0m

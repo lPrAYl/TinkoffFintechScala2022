@@ -1,0 +1,14 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(dependencyTree, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / dependencyTree[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mtinkoff_scala:tinkoff_scala_2.13:0.1.0-SNAPSHOT [S][0m
+[0m[[0m[0minfo[0m] [0m[0m  +-ru.tinkoff:scala-course-john_2.13:0.2 [S][0m
+[0m[[0m[0minfo[0m] [0m[0m  | +-ru.tinkoff:scala-course-clerk_2.13:0.2 [S][0m
+[0m[[0m[0minfo[0m] [0m[0m  | [0m
+[0m[[0m[0minfo[0m] [0m[0m  +-ru.tinkoff:scala-course-tom_2.13:0.2 [S][0m
+[0m[[0m[0minfo[0m] [0m[0m    +-ru.tinkoff:scala-course-martin_2.13:0.1 [S][0m
+[0m[[0m[0minfo[0m] [0m[0m      +-ru.tinkoff:scala-course-clerk_2.13:0.1 (evicted by: 0.2)[0m
+[0m[[0m[0minfo[0m] [0m[0m      +-ru.tinkoff:scala-course-clerk_2.13:0.2 [S][0m
+[0m[[0m[0minfo[0m] [0m[0m      [0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 0 s, completed 19 февр. 2022 г., 13:50:11[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m

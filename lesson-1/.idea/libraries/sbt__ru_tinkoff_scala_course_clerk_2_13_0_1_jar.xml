@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: ru.tinkoff:scala-course-clerk_2.13:0.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/gitlab.com/api/v4/projects/33751126/packages/maven/ru/tinkoff/scala-course-clerk_2.13/0.1/scala-course-clerk_2.13-0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/gitlab.com/api/v4/projects/33751126/packages/maven/ru/tinkoff/scala-course-clerk_2.13/0.1/scala-course-clerk_2.13-0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/gitlab.com/api/v4/projects/33751126/packages/maven/ru/tinkoff/scala-course-clerk_2.13/0.1/scala-course-clerk_2.13-0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

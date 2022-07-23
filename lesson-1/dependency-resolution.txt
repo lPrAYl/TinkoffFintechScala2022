@@ -1,0 +1,9 @@
+tinkoff_scala:tinkoff_scala_2.13:0.1.0-SNAPSHOT [S]
+  +-ru.tinkoff:scala-course-john_2.13:0.2 [S]
+  | +-ru.tinkoff:scala-course-clerk_2.13:0.2 [S]
+  | 
+  +-ru.tinkoff:scala-course-tom_2.13:0.2 [S]
+    +-ru.tinkoff:scala-course-martin_2.13:0.1 [S]
+      +-ru.tinkoff:scala-course-clerk_2.13:0.1 (evicted by: 0.2)
+      +-ru.tinkoff:scala-course-clerk_2.13:0.2 [S]
+      

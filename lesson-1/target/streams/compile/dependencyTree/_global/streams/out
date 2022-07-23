@@ -1,0 +1,8 @@
+[0m[[0m[0minfo[0m] [0m[0mtinkoff_scala:tinkoff_scala_2.13:0.1.0-SNAPSHOT [S][0m
+[0m[[0m[0minfo[0m] [0m[0m  +-ru.tinkoff:scala-course-john_2.13:0.2 [S][0m
+[0m[[0m[0minfo[0m] [0m[0m  | +-ru.tinkoff:scala-course-clerk_2.13:0.1 [S][0m
+[0m[[0m[0minfo[0m] [0m[0m  | [0m
+[0m[[0m[0minfo[0m] [0m[0m  +-ru.tinkoff:scala-course-tom_2.13:0.2 [S][0m
+[0m[[0m[0minfo[0m] [0m[0m    +-ru.tinkoff:scala-course-martin_2.13:0.1 [S][0m
+[0m[[0m[0minfo[0m] [0m[0m      +-ru.tinkoff:scala-course-clerk_2.13:0.1 [S][0m
+[0m[[0m[0minfo[0m] [0m[0m      [0m
