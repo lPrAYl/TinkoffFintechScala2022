@@ -1,0 +1,5 @@
+.idea/
+target/
+.bsp/
+homework/test
+homework/src/main/scala/ru/tinkoff/typeclass

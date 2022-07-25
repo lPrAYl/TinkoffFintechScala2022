@@ -1,0 +1,13 @@
+.idea/
+homework/target/
+lecture/
+/target/
+/project/
+/project/project/target
+/.bsp
+.vscode
+.DS_Store
+.gitlab-ci-compliance.yml
+.gitlab-ci.yml
+.scalafmt.conf
+src

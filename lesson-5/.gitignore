@@ -1,0 +1,11 @@
+.idea/
+project/project
+target/
+lecture/
+.bsp/
+
+.bloop
+.metals
+metals.sbt
+.vscode
+.sc

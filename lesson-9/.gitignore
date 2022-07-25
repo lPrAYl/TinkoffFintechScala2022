@@ -1,0 +1,21 @@
+target
+
+# For Mac users
+.DS_Store
+
+.sbtopts
+
+.ammonite
+.bloop
+.bsp
+.metals
+.vscode
+.idea
+metals.sbt
+
+.java-version
+
+project/project/.*
+project
+homework
+
