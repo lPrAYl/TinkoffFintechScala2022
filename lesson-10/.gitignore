@@ -1,6 +1,6 @@
 .idea/
-/homework
-/lecture
+/lecture/target
+/homework/target
 /target/
 /project/
 /project/project/target
